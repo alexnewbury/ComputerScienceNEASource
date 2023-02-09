@@ -1,0 +1,11 @@
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\bin\Release\NEAProject.exe
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\bin\Release\NEAProject.pdb
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.Help.resources
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.InstructionDisplay.resources
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.Interface.resources
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.Menu.resources
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.Options.resources
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.Properties.Resources.resources
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.csproj.GenerateResource.Cache
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.exe
+C:\Users\Alex Newbury\Documents\Computer Science\NEA\VSProjects\v1\NEAProject\NEAProjectCoolYay\obj\x86\Release\NEAProject.pdb
