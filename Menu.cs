@@ -186,13 +186,13 @@ namespace NEAProject
 				System.Data.DataTable ReturnedData;
 				
 				//Check file exists and save text has a value in it
-				if (!System.IO.File.Exists(FileSourceInput.Text))
-				{
-					throw new Exception("Selected file cannot be found.");
-				}
 				if (SaveNameInput.Text == "")
 				{
 					throw new Exception("No Save Name specified.");
+				}
+				if (!System.IO.File.Exists(FileSourceInput.Text))
+				{
+					throw new Exception("Selected file cannot be found.");
 				}
 				
 				SQL SQLControl = new SQL();
@@ -230,6 +230,7 @@ namespace NEAProject
 						SQLControl.ExecuteQuery("INSERT INTO " + SQL.CoordinatesTB + " VALUES (" + CurrentLineID + ", " + CurrentPaintingID + ", " + lineList[lineListIndex].coordinates[coordinateListIndex].X + ", " + lineList[lineListIndex].coordinates[coordinateListIndex].Y + ")");
 					}
 				}
+				
 				SavingProgressBar.Visible = false;
 				OutputTextLabelLoadTab.Visible = true;
 				OutputTextLabelLoadTab.Text = "Image \"" + SaveNameInput.Text + "\"sucessfully saved as PaintingID " + CurrentPaintingID.ToString();

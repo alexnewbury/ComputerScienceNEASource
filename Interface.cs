@@ -11,7 +11,7 @@ namespace NEAProject
 {
 	public partial class Interface : Form
 	{
-		public int timeLeft = 1;
+		public int timeLeft = 5;
 		public Interface()
 		{
 			//Show splash screen
